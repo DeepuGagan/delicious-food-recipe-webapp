@@ -27,8 +27,9 @@ This ia a food recipe web application built with React JS and Spoonacular API wh
 
 ## 🕔 Version History
 
-- Version 1.1 (Current)
-  - Bug Fixes
-  - Mobile and Tablet Responsive
 - Version 1.0
   - Initial Release
+ 
+## ©️ License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
